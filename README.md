@@ -1,6 +1,6 @@
 # AWS Lambda and Step Functions Serverless Data Processing Workflow
 
-Studies based in day 53-54 of 100 Days System Design for DevOps and Cloud Engineers.
+Studies based in day 77-78 of 100 Days System Design for DevOps and Cloud Engineers.
 
 https://deoshankar.medium.com/100-days-system-design-for-devops-and-cloud-engineers-18af7a80bc6f
 
